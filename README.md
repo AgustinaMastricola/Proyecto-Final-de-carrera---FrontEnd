@@ -1,5 +1,6 @@
 # 🚀 escapeXperience 
 La consigna del proyecto consistía en desarrollar un sitio web de **reservas**. 
+Nuestro sitio es un Booking de excursiones turísticas.
 
 ## 📋 Requisitos:
 - Debíamos desarrollar el Front End con **React + Vite**, una base de datos y una API para los usuarios, las reservas y los productos.
@@ -16,3 +17,9 @@ el usuario visitante, y el usuario logeado que podía realizar reservas.
 El equipo estaba conformado por 7 personas en total, y se asignaron referentes a las areas de diseño UX-UI, Front End, Back End, Infraestructura, Testing, Scrum Master. 
 - En el primer sprint fui la referente en el **diseño UI** del sitio y colaboré con el Front End.
 - En los otros 3 sprint, mi rol fue de **desarrolladora Front End** junto con otra compañera, y de **Scrum Master** llevando a cabo todas las ceremonias, documentarlas y el armado del Backlog.
+
+## 🌟 Mis aportes destacados: 
+ - Diseño, desarrollo y validación de los formularios de Sign In y Sign Up.
+ - Filtro de productos por palabra clave y por fecha de reserva disponible.
+ - Creación del calendario de fechas disponibles para realizar la reserva.
+ - Funcionalidad para compartir el producto por redes sociales (Whatsapp, Facebook, Twitter).
